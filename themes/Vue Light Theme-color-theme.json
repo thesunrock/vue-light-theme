@@ -119,6 +119,7 @@
 				"keyword.other.use",
 				"keyword.other.namespace",
 				"entity.name.tag.html",
+				"support.function"
 			],
 			"settings": {
 				"foreground": "#b425a8",
@@ -151,6 +152,7 @@
 				"keyword.operator.logical.scss",
 				"keyword.control.at-rule.media.scss",
 				"entity.name.tag.reference.scss"
+				
 			],
 			"settings": {
 				"foreground": "#ff3273",
