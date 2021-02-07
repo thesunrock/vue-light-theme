@@ -3,18 +3,18 @@
 
 Javascript:
 
-![alt text] (img/javascript.png)
+![alt text](img\javascript.png)
 
 CSS and HTML:
 
-![alt text] (img/css-html.png)
+![alt text](img\css-html.png)
 
 Typescript:
 
-![alt text] (img/typescript.png)
+![alt text](img\typescript.png)
 
 Python:
 
-![alt text] (img/python.png)
+![alt text](img\python.png)
 
 **Enjoy!**
