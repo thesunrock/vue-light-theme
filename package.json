@@ -1,0 +1,27 @@
+{
+    "name": "vue-light-theme",
+    "displayName": "Vue Light Theme",
+    "description": "A light VSCode theme inspired by the colors of Vue.js.",
+    "version": "0.0.1",
+    "publisher": "YonYonder",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yonyonder/vue-light-theme"
+    },
+    "icon": "img/vue-icon.png",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vue Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Vue Light Theme-color-theme.json"
+            }
+        ]
+    }
+}
