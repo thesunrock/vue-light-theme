@@ -3,18 +3,18 @@
 
 Javascript:
 
-![alt text](img\javascript.png)
+![alt text](https://raw.githubusercontent.com/yonyonder/vue-light-theme/main/img/css-html.png)
 
 CSS and HTML:
 
-![alt text](img\css-html.png)
+![alt text](https://raw.githubusercontent.com/yonyonder/vue-light-theme/main/img/javascript.png)
 
 Typescript:
 
-![alt text](img\typescript.png)
+![alt text](https://raw.githubusercontent.com/yonyonder/vue-light-theme/main/img/python.png)
 
 Python:
 
-![alt text](img\python.png)
+![alt text](https://raw.githubusercontent.com/yonyonder/vue-light-theme/main/img/typescript.png)
 
 **Enjoy!**
