@@ -36,13 +36,13 @@
 		"panel.border": "#A6C4F5",
 		"menu.border": "#A6C4F5",
 
-		"statusBar.background": "#309568"
+		"statusBar.background": "#309568",
+		"statusBar.noFolderBackground": "#309568"
 	},
 	"tokenColors": [
 		{
 			"scope": [
 				"comment",
-				
 			],
 			"settings": {
 				"foreground": "#5b98a0bd",
@@ -51,7 +51,6 @@
 		},
 		{
 			"scope": [
-				
 				"keyword.other.phpdoc.php",		
 			],
 			"settings": {
@@ -63,7 +62,8 @@
 				"storage.type",
 				"entity.other.attribute-name.class.css",
 				"entity.name.type.class",
-				"entity.other.attribute-name.html"
+				"entity.other.attribute-name.html",
+				"keyword.operator.new"
 
 			],
 			"settings": {
@@ -95,15 +95,6 @@
 		},
 		{
 			"scope": [
-				
-			
-			],
-			"settings": {
-				"foreground": "#017742",
-			}
-		},
-		{
-			"scope": [
 				"entity.name.tag.css",
 				"entity.other.attribute-name.id.css",
 			],
@@ -119,7 +110,9 @@
 				"keyword.other.use",
 				"keyword.other.namespace",
 				"entity.name.tag.html",
-				"support.function"
+				"support.function",
+				"variable.language.this",
+				"support.type.object.module"
 			],
 			"settings": {
 				"foreground": "#b425a8",
@@ -130,7 +123,7 @@
 				"entity.name.function",
 				"constant.numeric.css",
 				"support.constant.property-value.css",
-				
+				"meta.object-literal.key"
 			],
 			"settings": {
 				"foreground": "#a55d06",
@@ -145,7 +138,6 @@
 				"foreground": "#5e3de4"
 			}
 		},
-	
 		{
 			"scope": [
 				"keyword.control.at-rule.media.scss",
